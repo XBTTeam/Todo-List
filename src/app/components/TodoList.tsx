@@ -8,6 +8,7 @@ const TodoList = () => {
   return (
     <div>
       <div className="overflow-x-auto">
+        
         <table className="table">
           {/* head */}
           <thead>
