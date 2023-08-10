@@ -1,5 +1,4 @@
 import AddTask from "./components/AddTask";
-import TodoList from "./components/TodoList";
 
 export default function Home() {
   return (
@@ -8,7 +7,6 @@ export default function Home() {
         <h1 className="text-2xl font-bold">Todo List App</h1>
         <AddTask />
       </div>
-      <TodoList />
     </main>
   );
 }
