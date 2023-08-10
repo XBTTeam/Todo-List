@@ -33,7 +33,7 @@ const AddTask = () => {
           <AiOutlinePlus className="ml-2" size={18} />
         </button>
       </div>
-      <div className="overflow-x-auto flex flex-col">
+      <div className="overflow-x-auto flex flex-col justify-center">
         <table className="table">
           {/* head */}
           <thead>
